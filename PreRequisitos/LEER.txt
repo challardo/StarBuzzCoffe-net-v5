@@ -1,0 +1,13 @@
+crear la base de datos BDFactura_aspnet 
+y añadirla al proyecto 
+
+el path utiliza la version de sqlexpress modificar en caso de ser necesario 
+
+el programa no guardara nada en la base de datos hasta que este creada 
+
+el programa contiene otra base de datos de prueba FacturaU.mdf que puede ser utilizada en sustitucion,
+esta se encuentra comentada y para poderla utilizar se debe descomentar el filepath y la conexionpath
+
+
+GrandSQL es un script que te agrega un usuario especial a la bd que te permite abrir la bd en el IIS 
+correr el script una vez creada y anexada la base de datos BDFactura_aspnet

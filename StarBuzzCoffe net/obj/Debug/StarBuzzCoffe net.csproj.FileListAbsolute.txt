@@ -1,0 +1,538 @@
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll.config
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\StarBuzzCoffe net.pdb
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\csc.exe
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\csc.exe.config
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\csc.rsp
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\csi.exe
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\csi.exe.config
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\csi.rsp
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.AppContext.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Collections.Immutable.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Console.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.IO.Compression.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Reflection.Metadata.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.AccessControl.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.Claims.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.ValueTuple.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\vbc.exe
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\vbc.exe.config
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\vbc.rsp
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe.config
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csprojAssemblyReference.cache
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CoreCompileInputs.cache
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CopyComplete
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.dll
+D:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.pdb
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll.config
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\StarBuzzCoffe net.pdb
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\csc.exe
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\csc.exe.config
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\csc.rsp
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\csi.exe
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\csi.exe.config
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\csi.rsp
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.AppContext.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Collections.Immutable.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Console.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.IO.Compression.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Reflection.Metadata.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.AccessControl.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.Claims.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.ValueTuple.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\vbc.exe
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\vbc.exe.config
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\vbc.rsp
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe.config
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csprojAssemblyReference.cache
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CopyComplete
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.pdb
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\itextsharp.dll
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\bin\itextsharp.xml
+E:\Patrones de Diseño\StarBuzzCoffe net\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CoreCompileInputs.cache
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll.config
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\StarBuzzCoffe net.pdb
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csc.exe
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csc.exe.config
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csc.rsp
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csi.exe
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csi.exe.config
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csi.rsp
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.AppContext.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Collections.Immutable.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Console.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.Compression.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Reflection.Metadata.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.AccessControl.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Claims.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.ValueTuple.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\vbc.exe
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\vbc.exe.config
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\vbc.rsp
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe.config
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\itextsharp.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\itextsharp.xml
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csprojAssemblyReference.cache
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CoreCompileInputs.cache
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CopyComplete
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.dll
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.pdb
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll.config
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\StarBuzzCoffe net.pdb
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csc.exe
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csc.exe.config
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csc.rsp
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csi.exe
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csi.exe.config
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csi.rsp
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.AppContext.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Collections.Immutable.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Console.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.Compression.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Reflection.Metadata.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.AccessControl.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Claims.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.ValueTuple.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\vbc.exe
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\vbc.exe.config
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\vbc.rsp
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe.config
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\itextsharp.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\itextsharp.xml
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csprojAssemblyReference.cache
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CoreCompileInputs.cache
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CopyComplete
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.dll
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.pdb
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll.config
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\StarBuzzCoffe net.pdb
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csc.exe
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csc.exe.config
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csc.rsp
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csi.exe
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csi.exe.config
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\csi.rsp
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.AppContext.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Collections.Immutable.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Console.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.Compression.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Reflection.Metadata.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.AccessControl.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Claims.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.ValueTuple.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\vbc.exe
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\vbc.exe.config
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\vbc.rsp
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe.config
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\itextsharp.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\itextsharp.xml
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csprojAssemblyReference.cache
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CoreCompileInputs.cache
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CopyComplete
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.dll
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.pdb
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe_net.Properties.Resources.resources
+D:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.GenerateResource.cache
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe_net.Properties.Resources.resources
+E:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.GenerateResource.cache
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe_net.Properties.Resources.resources
+F:\Patrones de Diseño\StarBuzzCoffe net v2\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll.config
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\StarBuzzCoffe net.pdb
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\csc.exe
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\csc.exe.config
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\csc.rsp
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\csi.exe
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\csi.exe.config
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\csi.rsp
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.AppContext.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Console.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\vbc.exe
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\vbc.exe.config
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\vbc.rsp
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\itextsharp.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\itextsharp.xml
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe_net.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CopyComplete
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.dll
+C:\Users\Ivan\Desktop\Escuela\Patrones Proyectos\StarBuzzCoffe net v3\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.pdb
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll.config
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\StarBuzzCoffe net.pdb
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\itextsharp.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\itextsharp.xml
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe_net.Properties.Resources.resources
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CopyComplete
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.dll
+C:\Users\Admin\Downloads\StarBuzzCoffe net v4\StarBuzzCoffe net v4\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.pdb
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll.config
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\StarBuzzCoffe net.pdb
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\csc.exe
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\csc.exe.config
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\csc.rsp
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\csi.exe
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\csi.exe.config
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\csi.rsp
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.AppContext.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Console.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\vbc.exe
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\vbc.exe.config
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\vbc.rsp
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\itextsharp.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\itextsharp.xml
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe_net.Properties.Resources.resources
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CopyComplete
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.pdb
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\System.Data.SqlClient.dll
+C:\Users\Ivan\Desktop\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\System.Data.SqlClient.xml
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll.config
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\StarBuzzCoffe net.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\StarBuzzCoffe net.pdb
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\csc.exe
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\csc.exe.config
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\csc.rsp
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\csi.exe
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\csi.exe.config
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\csi.rsp
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.AppContext.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Console.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\vbc.exe
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\vbc.exe.config
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\vbc.rsp
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\itextsharp.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\System.Data.SqlClient.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\itextsharp.xml
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\System.Data.SqlClient.xml
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe_net.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.csproj.CopyComplete
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.dll
+C:\Users\Ivan\Desktop\Escuela\StarBuzzCoffe net v5\StarBuzzCoffe net\obj\Debug\StarBuzzCoffe net.pdb
